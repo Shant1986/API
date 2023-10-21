@@ -26,10 +26,10 @@ To access the SkyNow Airlines API, you will need an API key. Please contact our 
 
 **Example:**
 
-```http
+http
 POST /auth
 Content-Type: application/json
-
+```
 {
   "apiKey": "your-api-key"
 }
