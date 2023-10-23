@@ -4,7 +4,7 @@ Welcome to the SkyNow Airlines API documentation. SkyNow Airlines offers a power
 
 ## API Flow Diagram
 
-You can find the detailed API flow diagram for SkyNow in the [external diagram](https://www.plantuml.com/plantuml/png/TO-nJlW4K8NtUaW28KVWj9i1JdODoiO1W02CKJwxbRrRxkChdK2749vDSMWPTPMEMOuxiljrSKLOXjOyM5nfrn2CKwVyaszuzhs5f5bFAiA9xUGBxNHcjq7t8fn1My4WQHBdY47m5m3Tdp0-JUKTjqn6_FblllZJz2PeBjVDGJezDXssMd-n9LsDPmPqrLH-Aem1WCVk4fv2mFg2B2ZVTxuwhXHxSggaz5-6zF4SilkITdF0swD9zb7FH6fgNsHoUNevwBISTPRbfy5fo-9gqIdDwnuC-pMLcHDjBYBawyp9RH1rNXsDeUEh1lmoNfu1sXMA7JRMF_0000).
+You can find the detailed API flow diagram for SkyNow in the [external diagram](https://cdn-0.plantuml.com/plantuml/png/TOz1JyCm38Nl-HMUE710-GCxJ2jZ82GqK0VYW3YOrLkZfScKk4m8yTzfN1QgIZkrVlxUo_CyCWPk6wicN5D3q21JCAXzozOuKfEAjjqNokNYkLZTFInXOp76h1Tb-VWA-gqsLKNkNS-KkeINI45bXupmhG2ke7YwXuLtiMqwuYUnw_tNoX-XC26z5nCniFRRvEhzQyAmgU7McbtDKQIIE1Zwf3zHj4KWP89hx_V6xVg7Rf3n0oFzfsT9mY-afsWozN5vFeM9a1A5rfK_EZqRz9oEEvxbniNFWgDhyYh3-Owf_9wIqQgyqPQsFCeLTiq-u8w6gUsX0rCRAHaFtaLISt9LszXV).
 
 This diagram provides a visual representation of how data flows through our API and illustrates the key interactions between components.
 
